@@ -68,8 +68,9 @@ h2 {
 
 @media screen and (max-width: 600px) {
   body {
-    width: 425;
-    height: 870;
+    width: 325px;
+    height: 870px;
+    margin-left:25px;
   }
 
   .BOX1 > img {
